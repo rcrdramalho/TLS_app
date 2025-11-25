@@ -1,5 +1,4 @@
 import socket
-import threading
 
 server = socket.socket()
 server.bind(('localhost', 9999))
